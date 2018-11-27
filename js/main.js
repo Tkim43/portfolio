@@ -267,12 +267,12 @@ $.scrollUp({
 new WOW().init();
 
 /*  youtube video */
-$('.youtube-bg').YTPlayer({
-	containment: '.youtube-bg',
-	autoPlay: true,
-	loop: true,
-	mute: true
-});
+// $('.youtube-bg').YTPlayer({
+// 	containment: '.youtube-bg',
+// 	autoPlay: true,
+// 	loop: true,
+// 	mute: true
+// });
 
 // map
 function basicmap() {
