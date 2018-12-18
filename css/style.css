@@ -1873,3 +1873,7 @@ width: 100%;}
 	color: #565656;
 }
 
+.container-fluid img{
+	height: 325px;
+	width: 325px;
+}
