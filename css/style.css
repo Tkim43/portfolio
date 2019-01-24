@@ -1873,19 +1873,19 @@ width: 100%;}
 	color: #565656;
 }
 
-/* .container-fluid img{
-	height: 325px;
-	width: 325px;
-} */
 
-/* .icon-img img{
-	height: 200px;
-	width: 200px;
-} */
 
-/* .icons-container{
+.icon-img img{
+	height: 190px;
+	width: 170px;
+}
+
+.icon-container{
 	display: flex;
-	justify-content: space-between;
-	width: 80%;
-	height: 80%;
-} */
+	justify-content: column;
+}
+
+.icon-row{
+	display: flex;
+	justify-content: space-around;
+}
